@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\controllers\\qmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\controllers\\qmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodelsqms\\qmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodelsqms\\qmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodels\\ldepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodels\\ldepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodelshis\\hislink_hungviet_newcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodelshis\\hislink_hungviet_newcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\vietbait.webgolf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\vietbait.webgolf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodels2\\qmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodels2\\qmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodels2\\qmschokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodels2\\qmschokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodels2\\qmssokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodels2\\qmssokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\vietbait.webgolf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\vietbait.webgolf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\apimodels\\qmsmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\apimodels\\qmsmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\signalr\\qmshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\signalr\\qmshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\apihelpers\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\apihelpers\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\apihelpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\apihelpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|d:\\code\\toboit\\khanhhoa_qms\\vietbait.qms\\vietbait.webgolf\\dbmodelshis\\qmschokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5BDDC9-B99A-48E2-A83A-C1A04A13E2ED}|VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj|solutionrelative:vietbait.webgolf\\dbmodelshis\\qmschokham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:57:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HISlink_hungviet_newContext.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsHIS\\HISlink_hungviet_newContext.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModelsHIS\\HISlink_hungviet_newContext.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsHIS\\HISlink_hungviet_newContext.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModelsHIS\\HISlink_hungviet_newContext.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAUwC8CAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:50:46.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\UserController.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:07:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QMSController.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\QMSController.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Controllers\\QMSController.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\QMSController.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Controllers\\QMSController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAlwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:01:56.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FunctionController.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\FunctionController.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Controllers\\FunctionController.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Controllers\\FunctionController.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Controllers\\FunctionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:23:10.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QMSContext.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsQMS\\QMSContext.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModelsQMS\\QMSContext.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsQMS\\QMSContext.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModelsQMS\\QMSContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:34:20.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\appsettings.Development.json",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\appsettings.Development.json",
+              "RelativeToolTip": "VietBaIT.WebGolf\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T07:07:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\appsettings.json",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\appsettings.json",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\appsettings.json",
+              "RelativeToolTip": "VietBaIT.WebGolf\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T10:04:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LDepartments.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels\\LDepartments.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModels\\LDepartments.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels\\LDepartments.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModels\\LDepartments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:58:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QmsChoKham.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QmsChoKham.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModels2\\QmsChoKham.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QmsChoKham.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModels2\\QmsChoKham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:00:26.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIHelpers\\Responses.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\APIHelpers\\Responses.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIHelpers\\Responses.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\APIHelpers\\Responses.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowHoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:17:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Startup.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Startup.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Startup.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:21:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VietBaIT.WebGolf.csproj",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "RelativeToolTip": "VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T02:45:01.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QMSContext.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QMSContext.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModels2\\QMSContext.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QMSContext.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModels2\\QMSContext.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAswCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:10:05.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QmsSoKham.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QmsSoKham.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModels2\\QmsSoKham.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModels2\\QmsSoKham.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModels2\\QmsSoKham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:25:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QMSHub.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\SignalR\\QMSHub.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\SignalR\\QMSHub.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\SignalR\\QMSHub.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\SignalR\\QMSHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:47:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QmsChoKham.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsHIS\\QmsChoKham.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\DBModelsHIS\\QmsChoKham.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\DBModelsHIS\\QmsChoKham.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\DBModelsHIS\\QmsChoKham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:07:18.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VietBaIT.WebGolf",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "RelativeToolTip": "VietBaIT.WebGolf\\VietBaIT.WebGolf.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T07:38:18.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QMSModels.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIModels\\QMSModels.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\APIModels\\QMSModels.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIModels\\QMSModels.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\APIModels\\QMSModels.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:44:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Program.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\Program.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\Program.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:55:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIHelpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "VietBaIT.WebGolf\\APIHelpers\\AppSettings.cs",
+              "ToolTip": "D:\\Code\\TOBOIT\\KhanhHoa_QMS\\VietBaIT.QMS\\VietBaIT.WebGolf\\APIHelpers\\AppSettings.cs",
+              "RelativeToolTip": "VietBaIT.WebGolf\\APIHelpers\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:25:49.235Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

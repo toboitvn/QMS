@@ -1,0 +1,145 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
+// If you have enabled NRTs for your project, then un-comment the following line:
+// #nullable disable
+
+namespace VietBaIT.WebGolf.DBModelsHISCR
+{
+    public partial class TBenhanPhukhoa
+    {
+        public long Id { get; set; }
+        public int PatientId { get; set; }
+        public string PatientCode { get; set; }
+        public string MaBaNoitru { get; set; }
+        public DateTime? NgayTao { get; set; }
+        public string NguoiTao { get; set; }
+        public DateTime? NgaySua { get; set; }
+        public string NguoiSua { get; set; }
+        public string MaKhoaThien { get; set; }
+        public string NgaySinh { get; set; }
+        public short? NgoaiKieu { get; set; }
+        public string ThangSinh { get; set; }
+        public string NgheNghiep { get; set; }
+        public string DanToc { get; set; }
+        public string NoiLamViec { get; set; }
+        public string ThongtinLhe { get; set; }
+        public string DthoaiLhe { get; set; }
+        public DateTime? NgayVaoVien { get; set; }
+        public string GioPhutVaoVien { get; set; }
+        public short? QlnbTtiepVao { get; set; }
+        public string QlnbKhoa { get; set; }
+        public short? QlnbNgioiThieu { get; set; }
+        public string QlnbLanVvien { get; set; }
+        public short? QlnbChuyenVien { get; set; }
+        public string QlnbChuyenDen { get; set; }
+        public string QlnbRaVien { get; set; }
+        public short? QlnbLdoRvien { get; set; }
+        public short? QlnbTongNgayDt { get; set; }
+        public string CdNoiChuyenDen { get; set; }
+        public string CdMaNoiChuyenDen { get; set; }
+        public string CdKkbCcuu { get; set; }
+        public string CdMaKkbCcuu { get; set; }
+        public string CdKhoaDtri { get; set; }
+        public string CdMaKhoaDtri { get; set; }
+        public short? CdThuThuat { get; set; }
+        public short? CdPhauThuat { get; set; }
+        public short? Cddophauthuat { get; set; }
+        public short? Cddogayme { get; set; }
+        public short? Cddonhiemkhuan { get; set; }
+        public short? Cdkhac { get; set; }
+        public string Cdsongaydtsaupt { get; set; }
+        public string Cdsolanpt { get; set; }
+        public string CdRvienBchinh { get; set; }
+        public string CdMaRvienBchinh { get; set; }
+        public string CdRvienBphu { get; set; }
+        public string CdMaRvienBphu { get; set; }
+        public short? CdTaiBien { get; set; }
+        public short? CdBienChung { get; set; }
+        public string CdRvientruocPt { get; set; }
+        public string CdMaRvientruocPt { get; set; }
+        public string CdRviensauPt { get; set; }
+        public string CdMaRviensauPt { get; set; }
+        public short? TtrvKquaDtri { get; set; }
+        public short? TtrvGphauBenh { get; set; }
+        public string TtrvTvong { get; set; }
+        public short? TtrvLdoTgianTvong { get; set; }
+        public short? TtrvLdoTvong { get; set; }
+        public string TtrvNnhanTvong { get; set; }
+        public short? TtrvKhamNghiem { get; set; }
+        public string TtrvCdoanGphau { get; set; }
+        public string BaLdvv { get; set; }
+        public string BaQtbl { get; set; }
+        public string BaTsbBanThan { get; set; }
+        public string BaTsbGiaDinh { get; set; }
+        public short? Bapkthaykinhnam { get; set; }
+        public string Bspktckinh { get; set; }
+        public string Bapkchuky { get; set; }
+        public string Bapksongaykinh { get; set; }
+        public string Bapkluongkinh { get; set; }
+        public string Bapkkinhlancuoi { get; set; }
+        public short? Bapkdaubung { get; set; }
+        public short? Bapkthoigian { get; set; }
+        public short? Bapklaychongnam { get; set; }
+        public short? Bapkhetkinhnam { get; set; }
+        public string Bapkbenhpk { get; set; }
+        public short? Basktienthai { get; set; }
+        public string KbDaniemmac { get; set; }
+        public string KbHach { get; set; }
+        public string KbVu { get; set; }
+        public string KbMach { get; set; }
+        public string KbNhietDo { get; set; }
+        public string KbHuyetAp { get; set; }
+        public string KbNhipTho { get; set; }
+        public string KbCanNang { get; set; }
+        public string KbTuanHoan { get; set; }
+        public string KbHoHap { get; set; }
+        public string KbTieuHoa { get; set; }
+        public string KbThanKinh { get; set; }
+        public string KbCoXuongKhop { get; set; }
+        public string KbThanTietnieu { get; set; }
+        public string KbKhac { get; set; }
+        public string KckDauhieusd { get; set; }
+        public string KckMoilon { get; set; }
+        public string KckMoibe { get; set; }
+        public string KckAmvat { get; set; }
+        public string KckAmho { get; set; }
+        public string KckMangtrinh { get; set; }
+        public string KckTangsinhmon { get; set; }
+        public string KckAmdao { get; set; }
+        public string KckCotucung { get; set; }
+        public string KckThanTc { get; set; }
+        public string KckPhanphu { get; set; }
+        public string KckCacTuiCung { get; set; }
+        public string KbXnCls { get; set; }
+        public string KbTtba { get; set; }
+        public string KbBenhChinh { get; set; }
+        public string KbBenhPhu { get; set; }
+        public string KbPhanBiet { get; set; }
+        public string KbTienLuong { get; set; }
+        public string KbHuongDtri { get; set; }
+        public string TkbaQtbl { get; set; }
+        public string TkbaTtkqxn { get; set; }
+        public string TkbaPpdt { get; set; }
+        public short? TkbaPpdtPttt { get; set; }
+        public string TkbaTtrv { get; set; }
+        public string TkbaHdt { get; set; }
+        public string NguoiIn { get; set; }
+        public DateTime? NgayIn { get; set; }
+        public string MaCoso { get; set; }
+        public string TienThaiParaSinh { get; set; }
+        public string TienThaiParaSom { get; set; }
+        public string TienThaiParaSay { get; set; }
+        public string TienThaiParaSong { get; set; }
+        public string NguoiGiaoHoSo { get; set; }
+        public string NguoiNhanHoSo { get; set; }
+        public string BsdieuTri { get; set; }
+        public DateTime? NgayTongKetBa { get; set; }
+        public int? StXquang { get; set; }
+        public int? StCtscanner { get; set; }
+        public int? StSieuAm { get; set; }
+        public int? StXetNghiem { get; set; }
+        public int? StKhac { get; set; }
+    }
+}

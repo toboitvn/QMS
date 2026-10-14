@@ -1,0 +1,41 @@
+ALTER PROCEDURE [dbo].[QMS_DanhSachChoTiepDon]
+    @Department_Code NVARCHAR(100) = 'QUAY_1,QUAY_2', -- Mã phòng khám (phân tách bằng dấu phẩy)
+    @SoLuongBanGhi INT = 10                          -- Số lượng bản ghi trả về
+AS
+BEGIN
+    -- Khai báo biến ngày hiện tại
+    DECLARE @NgayHienTai DATETIME 
+    SET @NgayHienTai = dbo.trunc(GETDATE()) -- Lấy ngày hiện tại, bỏ giờ/phút/giây
+
+    -- Tắt đếm số hàng ảnh hưởng để tối ưu hiệu suất
+    SET NOCOUNT ON
+
+    -- Truy vấn danh sách chờ tiếp đón từ bảng QMS_So_Kham
+    SELECT TOP (@SoLuongBanGhi)
+        qck.id AS Id,
+        FORMAT(qck.So_Kham, '000') AS So_Kham, -- Định dạng số khám thành 3 chữ số
+        qck.loai_qms AS Loai_QMS,
+        FORMAT(qck.Ngay_Tao, 'dd/MM/yyyy') AS Ngay_Tao, -- Định dạng ngày tạo
+        qck.May_Tao AS May_Tao,
+        qck.[Status] AS Status,
+        qck.Ma_Quay AS Ma_Phong,
+        qck.Ip_May_Tao AS IP_May_Tao,
+        qck.Patient_Code AS Ma_Benh_Nhan,
+        qck.Patient_ID AS ID_Benh_Nhan,
+        qck.Is_UuTien AS La_Uu_Tien,
+        qck.Is_DaXoa AS Da_Xoa,
+        qck.So_Phong AS So_Phong,
+        qck.Department_ID AS ID_Khoa,
+        qck.Ma_CoSo AS Ma_Co_So,
+        qck.Ma_BenhVien AS Ma_Benh_Vien,
+        qck.Ma_Tram AS Ma_Tram,
+        qck.ma_doituongKcb AS Ma_Doi_Tuong_KCB
+        -- Tên bệnh nhân và năm sinh lấy từ bảng liên quan hoặc xử lý thêm nếu cần
+        
+    FROM [QMS].[dbo].[QMS_So_Kham] AS qck
+    WHERE qck.Ngay_Tao >= @NgayHienTai
+        AND qck.Ma_Quay IN (SELECT value FROM STRING_SPLIT(@Department_Code, ','))
+        AND qck.[Status] IN (0, 1) -- Lọc trạng thái chờ (0) hoặc đang khám (1)
+        AND qck.Is_DaXoa = 0 -- Chỉ lấy các bản ghi chưa bị xóa
+    ORDER BY qck.[Status] DESC, qck.So_Kham
+END

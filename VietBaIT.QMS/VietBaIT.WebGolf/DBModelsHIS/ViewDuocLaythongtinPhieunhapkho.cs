@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
+// If you have enabled NRTs for your project, then un-comment the following line:
+// #nullable disable
+
+namespace VietBaIT.WebGolf.DBModelsHIS
+{
+    public partial class ViewDuocLaythongtinPhieunhapkho
+    {
+        public int IdPhieuNhap { get; set; }
+        public string MaPhieuNhap { get; set; }
+        public string SoHoaDon { get; set; }
+        public DateTime NgayNhapHdon { get; set; }
+        public short? IdKhoNhap { get; set; }
+        public decimal? Vat { get; set; }
+        public short? IdNhaCcap { get; set; }
+        public string GhiChu { get; set; }
+        public string NguoiGiao { get; set; }
+        public short? IdNhanVien { get; set; }
+        public byte? HienThi { get; set; }
+        public DateTime? NgayTao { get; set; }
+        public string NguoiTao { get; set; }
+        public string NguoiSua { get; set; }
+        public DateTime? NgaySua { get; set; }
+        public string IpMayTao { get; set; }
+        public string IpMaySua { get; set; }
+        public byte? TrangThai { get; set; }
+        public DateTime? NgayXacNhan { get; set; }
+        public string NguoiXacNhan { get; set; }
+        public short? IdNvienXacNhan { get; set; }
+        public string MaKieuPhieu { get; set; }
+        public short? IdKhoXuat { get; set; }
+        public byte? LoaiPhieu { get; set; }
+        public short? IdKhoaLinh { get; set; }
+        public string TenKhoa { get; set; }
+        public string TenNhanVien { get; set; }
+        public string TenKhoNhap { get; set; }
+        public string TenKhoXuat { get; set; }
+    }
+}

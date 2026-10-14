@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
+// If you have enabled NRTs for your project, then un-comment the following line:
+// #nullable disable
+
+namespace VietBaIT.WebGolf.DBModelsHIS
+{
+    public partial class LCanhBao
+    {
+        public int MaBn { get; set; }
+        public string CanhBao { get; set; }
+        public string NguoiTao { get; set; }
+        public DateTime NgayTao { get; set; }
+        public string NguoiSua { get; set; }
+        public DateTime? NgaySua { get; set; }
+    }
+}
